@@ -49,7 +49,7 @@
                         <p class="text-center mt-3 small">Registered Already? <a href="../views/">Login</a></p>
                     </form>
                 </div>
-
+                <p>test</p>
             </div>
         </div>
     </div>
